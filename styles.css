@@ -1,0 +1,58 @@
+h1 {
+  color: #17a2b8;
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+h1.seattle {
+  color: #ac8810;
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+h1.sf {
+  color: #2d8074;
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+h2 {
+  font-size: 25px;
+  color: #73b2a9;
+}
+h2 {
+  color: #624fca;
+}
+h3 {
+  font-size: 20px;
+  color: #17a2b8;
+}
+h4 {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+}
+.mt-0 {
+  margin-top: 0 !important;
+}
+p {
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+.jumbotron {
+background-image: url(wacker50_a.jpg);
+background-size: cover;
+height: 800px;
+}
+.list-group-item.active {
+  background-color: grey;
+  border-color: grey;
+}
+thead.inverse {
+  color: grey;
+}
